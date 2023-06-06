@@ -1,0 +1,12 @@
+pandas
+numpy
+sklearn
+Flask
+PyYAML
+
+scikit-learn
+dill
+xgboost
+catboost
+flask
+-e .
